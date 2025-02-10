@@ -1,1 +1,1 @@
-# Machine-Learning-Models-from-scratch
+# Machine Learning Models from scratch
